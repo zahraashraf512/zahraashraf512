@@ -1,25 +1,27 @@
-# Hi 👋, I'm Zahra
 
-### 💻 Frontend Developer | React Developer
+# Hi, I'm Zahra Ashraf
 
-I'm **Zahra**, a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.
+### Frontend Developer | React Developer
 
-I enjoy turning ideas into clean and interactive websites using modern web technologies.
+I'm **Zahra Ashraf**, a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications.
 
----
-
-## 🚀 About Me
-
-* 💻 Frontend Developer
-* ⚛️ Currently learning and building with **React.js**
-* 🌐 Interested in modern web development
-* 🎨 Love creating responsive and clean UI
-* 📚 Always learning new technologies
-* 🤝 Open to learning, collaboration, and exciting projects
+I love turning ideas into clean, interactive, and responsive websites using modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* Frontend Developer
+* Currently learning and building with React.js
+* Interested in modern web development
+* Focused on responsive and clean UI
+* Continuously improving my JavaScript skills
+* Interested in learning new technologies
+* Open to collaboration and exciting projects
+
+---
+
+## Tech Stack
 
 ### Frontend
 
@@ -39,30 +41,50 @@ I enjoy turning ideas into clean and interactive websites using modern web techn
 
 ---
 
-## 📌 What I'm Working On
+## What I'm Working On
 
 * React.js projects
 * Responsive websites
 * API-based applications
 * Reusable React components
-* Improving my JavaScript skills
+* E-commerce applications
+* Improving JavaScript and React skills
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+### E-Commerce Website
+
+A responsive e-commerce website built with modern frontend technologies and reusable React components.
+
+### Fake Store API
+
+A React application that fetches and displays products and user data using the Fake Store API.
+
+### React Projects
+
+Working on different React projects to improve frontend development skills, API integration, state management, and responsive UI development.
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-📧 **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-
-💼 **GitHub:** https://github.com/YOUR_USERNAME
+![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra512\&show_icons=true\&theme=tokyonight)
 
 ---
 
-### ✨ "Learning, building, and growing every day."
+## Connect With Me
 
-Thanks for visiting my profile! 😊
+**Email:** [muhammadashrafasharaf943@gmail.com](mailto:muhammadashrafasharaf943@gmail.com)
+
+**GitHub:** https://github.com/zahra512
+
+**LinkedIn:** https://www.linkedin.com/in/zahra-ashraf-759ba4420/
+
+---
+
+### Learning, Building, and Growing Every Day
+
+Thanks for visiting my profile.
+
